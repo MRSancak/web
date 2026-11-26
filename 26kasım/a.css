@@ -1,0 +1,9 @@
+			.b div
+			{
+				height: 70px;
+				width: 70px;
+				background-color: #ff0000;
+				text-align: center;
+				border: 2px solid #000000;
+				border-radius: 0px;
+			}
